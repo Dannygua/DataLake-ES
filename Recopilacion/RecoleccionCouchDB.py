@@ -46,4 +46,4 @@ except:
     
 #Aqui se define el bounding box con los limites geograficos donde recolectar los tweets
 twitterStream.filter(track=["ecuador","quito","epn","ecuador","solanda"])
-#twitterStream.filter(locations=[-78.586922,-0.395161,-78.274155,0.021973])
+twitterStream.filter(locations=[-78.586922,-0.395161,-78.274155,0.021973])
