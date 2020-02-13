@@ -59,6 +59,8 @@ Información extra.
 Se pueden encontrar varios datasets de temas de interés en kaggle: https://www.kaggle.com/
 Para la generación de tweets, es importante solicitar nuestra propia key para poder consumir el api. 
 
+Explicación en Youtube: https://www.youtube.com/watch?v=hhW3PYth5xE&feature=youtu.be
+
 
 
 
